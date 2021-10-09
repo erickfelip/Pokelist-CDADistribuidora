@@ -1,0 +1,12 @@
+body {
+    background-color: #000000;
+    color: #fff;
+  }
+  .App {
+    font-family: sans-serif;
+    font-size: medium;
+  }
+  .App a {
+    color: #fff;
+  }
+  
